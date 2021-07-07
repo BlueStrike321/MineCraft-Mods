@@ -1,0 +1,12 @@
+{
+  "group": "rajganeshsrinivasan",
+  "type": "minecraft:smelting",
+  "experience": 50,
+  "cookingtime": 2000,
+  "ingredient": {
+    "item": "rajganeshsrinivasan:infested_diamond_ore"
+  },
+  "result": {
+    "item": "rajganeshsrinivasan:infested_diamond"
+  }
+}

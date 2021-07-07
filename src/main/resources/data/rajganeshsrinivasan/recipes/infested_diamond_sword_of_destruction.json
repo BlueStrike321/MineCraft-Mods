@@ -1,0 +1,36 @@
+{
+  "group": "rajganeshsrinivasan",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherite_sword"
+    },
+    "1": {
+      "item": "rajganeshsrinivasan:infested_diamond"
+    },
+    "2": {
+      "item": "minecraft:netherite_sword"
+    },
+    "3": {
+      "item": "minecraft:netherite_sword"
+    },
+    "4": {
+      "item": "rajganeshsrinivasan:infested_diamond"
+    },
+    "5": {
+      "item": "minecraft:netherite_sword"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "rajganeshsrinivasan:infested_diamond_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 50.0,
+    "cookingTime": 2000,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:InfestedDiamondOre"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:InfestedDiamond"
+    },
+    "name": "infested_diamond_recipe",
+    "namespace": "mod"
+  }
+}

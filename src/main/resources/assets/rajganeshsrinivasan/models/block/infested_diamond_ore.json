@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "rajganeshsrinivasan:blocks/infested_diamond_ore",
+    "up": "rajganeshsrinivasan:blocks/infested_diamond_ore",
+    "north": "rajganeshsrinivasan:blocks/infested_diamond_ore",
+    "east": "rajganeshsrinivasan:blocks/infested_diamond_ore",
+    "south": "rajganeshsrinivasan:blocks/infested_diamond_ore",
+    "west": "rajganeshsrinivasan:blocks/infested_diamond_ore",
+    "particle": "rajganeshsrinivasan:blocks/infested_diamond_ore"
+  }
+}

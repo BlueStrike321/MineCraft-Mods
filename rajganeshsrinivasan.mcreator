@@ -1,0 +1,92 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "InfestedDiamondOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infested_diamond_ore"
+    },
+    {
+      "name": "InfestedDiamond",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infested_diamond"
+    },
+    {
+      "name": "InfestedDiamondRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infested_diamond_recipe"
+    },
+    {
+      "name": "InfestedDiamondSword",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infested_diamond_sword"
+    },
+    {
+      "name": "InfestedDiamondSwordOfDestruction",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infested_diamond_sword_of_destruction"
+    },
+    {
+      "name": "Infesdiamond",
+      "type": "achievement",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "infesdiamond"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.infesdiamond.title": "Are those Diamonds?",
+      "advancements.infesdiamond.descr": "Infected Diamonds? Well they are still Diamonds! (I think?)",
+      "item.rajganeshsrinivasan.infested_diamond_sword": "Infested Diamond Sword",
+      "item.rajganeshsrinivasan.infested_diamond": "Infested Diamond",
+      "block.rajganeshsrinivasan.infested_diamond_ore": "Infested Diamond Ore"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "rajganeshsrinivasan",
+    "modName": "RajganeshSrinivasan(1)",
+    "version": "1.0.0",
+    "author": "rajga, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.rajganeshsrinivasan",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
